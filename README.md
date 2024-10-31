@@ -19,7 +19,7 @@ You do not need to install GDWeave manually if you have already installed it thr
 
 Follow the approriate instructions depending on if you are using [Hook, Line, & Sinker](https://github.com/pyoidzzz/HLSRewritten) to load mods or not.
 
-Be sure to install all requirements above before installing this mod.
+Be sure to install all requirements listed above before installing this mod.
 ### Using Hook, Line & Sinker
 - Use "Import ZIP" under the 3rd Party Mods section and open MoreBucketHats.zip
 - "Refresh Mods" after MoreBucketHats.zip has been imported
