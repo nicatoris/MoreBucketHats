@@ -21,7 +21,7 @@ Follow the approriate instructions depending on if you are using [Hook, Line, & 
 
 Be sure to install all requirements listed above before installing this mod.
 ### Using Hook, Line & Sinker
-- Use "Import ZIP" under the 3rd Party Mods section and open MoreBucketHats.zip
+- Use "Import ZIP" under the 3rd Party Mods section to import MoreBucketHats.zip
 - "Refresh Mods" after MoreBucketHats.zip has been imported
 
 ### **NOT** using Hook, Line & Sinker
