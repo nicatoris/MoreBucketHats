@@ -15,6 +15,8 @@ All new colors of bucket hats will be automatically unlocked/added to your inven
 
 You do not need to install GDWeave manually if you have already installed it through Hook, Line, & Sinker.
 ## Installing
+**Although the chances of data loss are low, it is always smart to backup your save before installing/using mods!**
+
 Follow the approriate instructions depending on if you are using [Hook, Line, & Sinker](https://github.com/pyoidzzz/HLSRewritten) to load mods or not.
 
 Be sure to install all requirements above before installing this mod.
