@@ -6,8 +6,7 @@ This is a simple mod that adds other colors of buckets hats.
 
 All new colors of bucket hats will be automatically unlocked/added to your inventory.
 
-
-
+The green and tan bucket hats will remain only unlockable through quests.
 
 ## Requirements
 
