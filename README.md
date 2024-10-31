@@ -1,3 +1,4 @@
+![MoreBucketHats Logo](https://github.com/nicatoris/MoreBucketHats/blob/main/morebuckethats.png?raw=true)
 
 # MoreBucketHats
 
